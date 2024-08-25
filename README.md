@@ -1,14 +1,13 @@
 <div align="center">
    
    **Web Developer | Backend Developer** <br> <br>
-   <a href="">[![visitor](https://visitor-badge.laobi.icu/badge?page_id=rahmadiswadi)](https://github.com/rahmadiswadi)</a> 
-   <a href="https://github.com/rahmadiswadi"><img src="https://img.shields.io/github/followers/rahmadiswadi?label=followers&style=social"/></a>
+   <a href="">[![visitor](https://visitor-badge.laobi.icu/badge?page_id=rahmadiswadi)](https://github.com/rahmadiswadi)</a>
     
 </div>
 
 ### Highlight 🔦
 * 😎 My name is **Rahmad Iswadi**
-* 🚀 I’m currently learning JS, TS, PHP, and Golang
+* 🚀 I’m currently learning JS, TS, PHP, Golang, and Python
 
 ### Tech Stack 💻
 
@@ -18,18 +17,20 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 #### Front-end
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 
 #### Back-end
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 #### Full Stack
 
