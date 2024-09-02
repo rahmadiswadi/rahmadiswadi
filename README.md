@@ -1,12 +1,11 @@
 <div align="center">
+
+   **Web Developer | Backend Developer**
    
-   **Web Developer | Backend Developer** <br> <br>
-   <a href="">[![visitor](https://visitor-badge.laobi.icu/badge?page_id=rahmadiswadi)](https://github.com/rahmadiswadi)</a>
-    
 </div>
 
 ### Highlight 🔦
-* 😎 My name is **Rahmad Iswadi**
+* My name is **Rahmad Iswadi**
 * 🚀 I’m currently learning JS, TS, PHP, Golang, and Python
 
 ### Tech Stack 💻
@@ -22,7 +21,7 @@
 #### Front-end
 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 #### Back-end
 
@@ -38,18 +37,23 @@
 
 #### Database
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 #### Devops
 
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
+
+#### Message Broker
+
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
 ### Stats 🌟
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmadiswadi&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
